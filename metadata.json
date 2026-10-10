@@ -1,0 +1,7 @@
+{
+  "name": "AI Career Navigator – Telangana DEET & TASK Placement Platform",
+  "description": "AI-powered placement and career guidance platform for students in Telangana with DEET & TASK job matching, smart recruitment tracking, mock interviews, and skill gap roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
